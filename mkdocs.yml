@@ -1,0 +1,45 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+site_name: trance docs
+site_url: https://t.slowtown.us/
+site_author: Andy X
+
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+    - header.autohide
+  logo: assets/logo.png
+  favicon: images/favicon.png
+  palette:
+    primary: grey
+
+
+repo_name: d.slowtown.us
+repo_url: https://github.com/arbeitandy/test_blog
+
+
+nav:
+  - Welcome:
+    - About the site: index.md
+  - Docs:
+    - commonplace: commonplace.md
+    - draft: draft.md
+    - v2: draftv2.md
+
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
+
+plugin:
+  - tags:
+      tags_file: tag.md
+  - blog
+
+extra:
+  analytics:
+    provider: google
+    property: G-3XMYCBZ6D3
+copyright: >
+  Copyright &copy; 2024 Copyleft
