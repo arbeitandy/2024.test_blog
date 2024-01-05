@@ -1,6 +1,12 @@
-# Welcome to MkDocs
+# Welcome to trance docs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is a tiny site made by [mkdocs.org](https://www.mkdocs.org).
+
+## Contents
+
+* my own logs tracking daily coding, reading, learning guitar and runs.
+* a commaonplace doc to track all the commands and bits. 
+* something else, I will append later.
 
 ## Commands
 

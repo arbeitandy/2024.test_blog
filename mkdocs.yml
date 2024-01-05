@@ -25,7 +25,6 @@ nav:
   - Docs:
     - commonplace: commonplace.md
     - draft: draft.md
-    - v2: draftv2.md
 
 extra_css:
   - stylesheets/extra.css
