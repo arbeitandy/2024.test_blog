@@ -15,4 +15,14 @@
          <lastmod>2024-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://t.slowtown.us/commonplace/</loc>
+         <lastmod>2024-01-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://t.slowtown.us/draft/</loc>
+         <lastmod>2024-01-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
